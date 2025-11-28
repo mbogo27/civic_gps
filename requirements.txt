@@ -1,2 +1,8 @@
 cerebras_cloud_sdk 
 streamlit 
+python-dotenv
+networkx
+matplotlib
+python-dotenv
+plotly
+streamlit
